@@ -1,0 +1,1 @@
+package com.karmadeliworks.paymentprocessing;public class Utility {    static String flag = "";    static  Boolean alertSummoned = false;    static int amountSent = 0;}
